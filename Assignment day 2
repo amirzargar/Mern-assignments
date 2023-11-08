@@ -1,5 +1,8 @@
 What is wireframe ?
-A wireframe is a basic visual representation or sketch of a web page, mobile app, or software interface. It outlines the layout, structure, and placement of elements, but it doesn't include design details like colors or images. It serves as a blueprint for web or app development.
+A wireframe is a basic visual representation or sketch of a web page,
+mobile app, or software interface. It outlines the layout, structure,
+and placement of elements, but it doesn't include design details like colors
+or images. It serves as a blueprint for web or app development.
 
 What is mockup ?
 A mockup is a visual representation or prototype of a design, 
@@ -10,11 +13,15 @@ links. They help stakeholders visualize the design before actual development or 
 
 Difference between scripting and programming language ?
 
-A scripting language is typically used for automating tasks, controlling software applications, and often interpreted rather than compiled. It focuses on specific tasks and interactions.
-A programming language, on the other hand, is more comprehensive and can be used to create full-fledged software applications. It usually involves compilation and provides more control over the computer's hardware.
+A scripting language is typically used for automating tasks, controlling software applications, and 
+often interpreted rather than compiled. It focuses on specific tasks and interactions.
+A programming language, on the other hand, is more comprehensive and can be used to create full-fledged
+software applications. It usually involves compilation and provides more control over the computer's hardware.
 
 What is ECMAScript?
-ECMAScript is a standardized scripting language specification. It is the basis for several programming languages, with JavaScript being the most well-known. The ECMAScript specification defines the syntax and semantics of the language, ensuring consistency and compatibility among different JavaScript engines and implementations.
+ECMAScript is a standardized scripting language specification. It is the basis for several programming languages,
+with JavaScript being the most well-known. The ECMAScript specification defines the syntax and semantics of the language, 
+ensuring consistency and compatibility among different JavaScript engines and implementations.
 
 6 best design websites for 2023?
 According to google results,best website designs until now in  2023 are:

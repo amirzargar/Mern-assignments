@@ -1,0 +1,28 @@
+1.URL (Uniform Resource Locator):
+A URL is a web address that specifies the location of a resource on the internet. 
+It typically consists of a protocol (e.g., http:// or https://), domain name, and 
+optional path.
+
+2.Difference between HTTP and HTTPS:
+HTTP (Hypertext Transfer Protocol) is unsecured, while HTTPS 
+(Hypertext Transfer Protocol Secure) is secured. HTTPS encrypts data during 
+transmission, providing a more secure connection, which is crucial for 
+sensitive information like passwords and payment details.
+
+3.DOM (Document Object Model):
+DOM is a programming interface for web documents. It represents the structure of a
+document as a tree of objects, allowing scripts to dynamically update content, structure, and style.
+
+4.Meta Tags:
+Meta tags are HTML elements that provide metadata about a document. They include 
+information such as character encoding, viewport settings, description, and keywords.
+Meta tags are placed within the <head> section of an HTML document.
+
+5.W3C (World Wide Web Consortium):
+W3C is an international community that develops web standards to ensure the long-term growth
+of the Web. It establishes guidelines and specifications for technologies like HTML, CSS, and more.
+
+6.Different Doctypes of Different Versions of HTML:
+For HTML5, the doctype is <!DOCTYPE html>.
+Earlier versions had different declarations, such as 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"> for HTML 4.01.

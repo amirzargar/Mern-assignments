@@ -1,0 +1,46 @@
+ASCII Character Set vs UTF-8 Character Set vs UTF-16 Character Set:
+
+a. ASCII Character Set:
+ASCII is the basic character set that uses 7 bits to represent English letters, numbers, and symbols. It's the foundation of character encoding in computers.ASCII is like the OG of character sets. It's the basic set of characters we started with in computing—English letters, numbers, and some symbols. Simple and classic.
+
+b. UTF-8 Character Set:
+UTF-8 is a flexible character encoding that uses 8 bits or more, allowing it to represent a vast range of characters, including those from different languages and special symbols.In other words UTF-8 is like the cool upgrade. It can handle way more characters from different languages and symbols. It's like having a much bigger toolbox for communication.
+
+c. UTF-16 Character Set:
+ UTF-16 is a character encoding that uses 16 bits or more, providing an even broader capacity for characters, especially useful for languages with complex scripts.Think of UTF-16 as the heavy lifter. It can handle even more characters, and it's often used for complex scripts and languages. It's like having a super-sized toolbox for the global language mix.
+
+
+What is Search Engine Optimization (SEO)?
+SEO is the process of optimizing a website to improve its visibility on search engines. It involves using strategies like keywords, quality content, and technical enhancements to rank higher in search results, ultimately driving more organic traffic to the site.In simple terms its is like giving your website a backstage pass to stardom on the internet. It's the art and science of making your website more visible to search engines like Google. You tweak things on your site so that when people search for something related to what you offer, your site is right there in the spotlight. It involves playing the search engine game with keywords, good content, and other tricks to get your site on that coveted first page of search results. It's like making sure your shop is on the busiest street in town, but for the digital world.
+
+Difference between Framework and API?
+
+1. Framework:
+
+Definition: 
+A framework is like a ready-made blueprint for building a specific type of software application.
+
+Purpose:
+It provides a structure and set of tools to streamline and guide the development process.
+
+Usage: 
+Developers use the framework as a foundation, filling in the specific details of their application within the framework's structure.
+
+Example: 
+Think of a framework as a house construction kit; it gives you the walls, roof, and foundation, and you customize the interior.
+
+2. API (Application Programming Interface):
+
+Definition: 
+An API is like a set of rules that allows different software applications to communicate with each other.
+
+Purpose:
+It defines how software components should interact, enabling them to share data and functionality.
+
+Usage: 
+Developers use APIs to access specific features or data from a service, library, or software component without needing to understand its internal workings.
+
+Example:
+Imagine an API as a menu in a restaurant; you don't need to know how the dish is prepared, but the menu (API) lets you order and receive the food.
+
+In a nutshell, a framework is a toolset for building applications, providing a structure to work within, while an API is a set of rules that allows different software to communicate and share functionality.

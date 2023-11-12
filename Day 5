@@ -1,0 +1,20 @@
+Question: Z this Mockup or wireframe…Give reasons to support your answer?
+
+Answer: It is a wireframe as it contains basic visual representation or 
+sketch of the given web page,Plus it just  outlines the layout, structure,
+and placement of elements,and doesn't include design details like colors
+or images.
+
+Question: Bootstrap, foundation, materialize, skeleton, milligram, UIkit, 
+material design lite, Susy ... 
+What is common in the above stuff ….Write short intro?
+
+Answer: 
+All the mentioned items—Bootstrap, Foundation, Materialize, Skeleton, Milligram, 
+UIkit, Material Design Lite, and Susy—are front-end frameworks or libraries designed
+to simplify and expedite the process of web development. Each offers a collection of
+pre-designed, responsive components and styles that developers can leverage to create
+consistent, visually appealing, and mobile-friendly websites. Whether it's the sleek
+and modern aesthetics of Materialize, the flexibility of Bootstrap, or the minimalistic 
+approach of Skeleton, these tools share the goal of providing a solid foundation for
+building responsive and visually engaging user interfaces.

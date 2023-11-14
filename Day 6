@@ -1,0 +1,95 @@
+1) Question: What softwares ux designer use for mockup?
+
+UX designers often use dedicated software that focuses on visual representation and design. Some popular tools for creating mockups include:
+
+Adobe XD,Sketch,Figma,Balsamiq,InVision Studio,Adobe Photoshop
+
+2) Question : What softwares ux designer use for prototyping?
+
+UX designers utilize various software tools for prototyping, allowing them to create interactive and dynamic representations of their designs. Some commonly used prototyping tools include:
+
+Adobe XD, Figma,InVision,Axure ,Sketch,Proto.io,Principle(macOS).
+
+3) Question : Raster Graphics vs vector graphics and usage in html?
+
+Raster (Bitmap) Images:
+
+Usage in HTML: Commonly used through the <img> tag.
+
+Characteristics: Composed of pixels, resolution-dependent, and can lose quality when resized.
+
+Common Formats: JPEG, PNG, GIF.
+
+Example HTML: <img src="example.jpg" alt="Example Image">
+
+Vector Images:
+Usage in HTML: Often used through the <svg> (Scalable Vector Graphics) tag for inline vector graphics.
+
+Characteristics: Composed of paths defined by mathematical equations, resolution-independent, and can be scaled without loss of quality.
+
+Common Format: SVG.
+
+Example HTML: <svg width="100" height="100"><circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" /></svg>
+
+4) what is WHATWG?
+WHATWG stands for the Web Hypertext Application Technology Working Group. It's a community-driven organization that focuses on developing and maintaining web-related specifications. WHATWG was formed in response to the slow progress of the World Wide Web Consortium (W3C) in the early 2000s.K
+
+Formation: WHATWG was formed in 2004 by individuals from Apple, Mozilla, and Opera, who were dissatisfied with the W3C's progress on HTML and related standards.
+
+Focus: The primary focus of WHATWG is to advance the development of web technologies, with a particular emphasis on HTML and APIs.
+
+HTML Living Standard: One of the most notable contributions of WHATWG is the development of the HTML Living Standard. This document represents an ongoing, continuously updated snapshot of HTML specifications, incorporating real-world feedback and implementation experience.
+
+Open and Transparent: WHATWG operates in an open and transparent manner, with discussions and decisions made publicly. It encourages contributions from developers and stakeholders across the web community.
+
+Collaboration with W3C: While WHATWG operates independently, there is collaboration with the World Wide Web Consortium (W3C). The HTML Living Standard is used as the basis for the HTML specification developed by the W3C.
+
+In summary, WHATWG plays a crucial role in the evolution of web standards, particularly in the development and maintenance of HTML specifications. It aims to ensure that web technologies advance to meet the changing needs of the internet and its users.
+
+5) SVG vs VML?
+
+SVG (Scalable Vector Graphics):
+Format: XML-based.Purpose: Used for creating vector graphics in web pages.
+Scalability: Resizable without loss of quality
+Browser Support: Well-supported across modern browsers.
+Example in HTML: <svg width="100" height="100"><circle cx="50" cy="50" r="40" fill="red" /></svg>VML 
+
+(Vector Markup Language):
+Format: XML-based (Deprecated).
+Purpose: Used for vector graphics in older versions of Internet Explorer.Scalability: Resizable but not as flexible as SVG.
+Browser Support: Deprecated and not supported in modern browsers.
+
+In modern web development, SVG is the preferred choice for vector graphics due to its widespread support, scalability, and compatibility with current web standards. VML was specific to older versions of Internet Explorer and is no longer relevant in contemporary web design.
+
+6) Web crawlers and how does Seo happen?
+Web crawlers, also known as spiders or bots, are automated programs that systematically browse the internet, visiting web pages, and indexing their content. These crawlers play a crucial role in search engine optimization (SEO) by helping search engines understand, index, and rank web pages.
+
+Here's a simplified overview of how SEO happens with the involvement of web crawlers:
+
+1. **Crawling:**
+   - Web crawlers start by crawling the internet, following links from one page to another. They discover new and updated pages during this process.
+
+2. **Indexing:**
+   - The information collected during crawling is then indexed. Indexing involves organizing and storing the content of web pages in a database, making it easier for search engines to retrieve relevant results for user queries.
+
+3. **Keywords and Content Analysis:**
+   - Search engines analyze the content of web pages, looking for keywords and phrases. Relevant keywords help search engines understand the topic and context of a page.
+
+4. **Ranking Algorithms:**
+   - Search engines use complex algorithms to determine the relevance and quality of web pages based on various factors. These factors include the presence of keywords, the structure of the content, backlinks, user engagement metrics, and more.
+
+5. **User Experience:**
+   - SEO is not just about keywords; it also considers user experience. Pages with well-organized content, fast loading times, and mobile-friendliness are often ranked higher.
+
+6. **Backlinks:**
+   - Search engines consider the number and quality of links pointing to a page. Quality backlinks from reputable sources can positively impact a page's ranking.
+
+7. **SEO Strategies:**
+   - Website owners and developers employ various SEO strategies to optimize their content for search engines. This includes optimizing meta tags, creating high-quality content, using descriptive URLs, and ensuring proper HTML structure.
+
+8. **Regular Updates:**
+   - Search engine algorithms are updated regularly. Staying informed about these updates and adjusting SEO strategies accordingly is crucial for maintaining or improving search rankings.
+
+In summary, web crawlers play a fundamental role in the SEO process by discovering, indexing, and ranking web pages based on various factors. SEO involves optimizing content, improving user experience, and adhering to best practices to enhance a website's visibility in search engine results.
+
+

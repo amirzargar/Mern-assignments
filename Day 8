@@ -1,0 +1,45 @@
+1) Question : Different between section tag and article tag in html?
+   Answer   : 
+            In HTML, both the <section> and <article> tags are used to define different sections of a webpage,
+            but they have distinct purposes and use cases. Here's a brief comparison:
+
+<section> Tag:
+
+Purpose: The <section> tag is used to define a generic section in an HTML document. It is a way to group together related content.
+
+Semantic Meaning: It doesn't imply any specific thematic grouping but is more about organizing content for styling or scripting purposes.
+
+
+<article> Tag:
+
+Purpose: The <article> tag is used to define a self-contained, independent piece of content that could be distributed and reused independently, such as a news article, blog post, forum post, etc.
+
+Semantic Meaning: It carries the semantic meaning that the content inside it is a complete, standalone composition.
+
+2) Question : What is SVG, PNG and Bitmap?
+
+   Answer:
+          SVG (Scalable Vector Graphics):
+
+Format: XML-based vector image format.
+Scalability: Resolution-independent; can be scaled without loss of quality.
+Editing: Composed of paths defined by mathematical equations, easily editable with text editors or graphic design software.
+Usage: Ideal for logos, icons, illustrations, and interactive graphics on the web.
+
+PNG (Portable Network Graphics):
+Format: Raster image format (bitmap).
+Transparency: Supports alpha-channel transparency.
+Compression: Lossless compression, preserving image quality.
+Usage: Commonly used for images requiring transparency, like logos, buttons, and images with sharp edges.
+
+Bitmap (Raster Graphics):
+Format: Pixel-based image format.
+Resolution: Composed of a grid of pixels, resolution-dependent.
+Scalability: Enlarging may result in pixelation or loss of quality.
+Usage: Common for detailed photographs and images, less suitable for logos or illustrations requiring scalability.
+
+
+In summary, SVG is a vector format that's scalable without loss of quality, PNG is a raster format known for supporting transparency, 
+and "Bitmap" generally refers to raster graphics that are resolution-dependent and may lose quality when scaled. Each has its specific
+use cases based on the type of graphic content being created or displayed
+
